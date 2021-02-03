@@ -1,0 +1,29 @@
+#heading {
+  color: blue;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: .5em;
+}
+
+#paragraph {
+  padding-top: 2em;
+  padding-left: .5em;
+  padding-bottom: 1em;
+}
+
+.details {
+  padding-top: 2em;
+  padding-left: 1em;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 40px;
+}
+img {
+  padding-top: .5em;
+  padding-left: 1em;
+}
+#website {
+  padding-left: 1em;
+}
