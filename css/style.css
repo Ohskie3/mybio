@@ -1,29 +1,54 @@
+body {
+  background-color: rgba(214, 95, 95, 0.842);
+}
+
 #heading {
   color: blue;
   font-size: 50px;
   font-weight: bold;
   padding-left: .5em;
+  padding-top: 30px;
 }
 
 #paragraph {
   padding-top: 2em;
   padding-left: .5em;
   padding-bottom: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+#list {
+  padding-bottom: 15px;
+  font-weight: bold;
+  font-size: 25px;
+}
+#things {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .details {
-  padding-top: 2em;
+  padding-top: 1em;
   padding-left: 1em;
+  margin: 5px;
 }
 
 ul {
   list-style: disc;
   padding-left: 40px;
 }
+
 img {
   padding-top: .5em;
   padding-left: 1em;
 }
+
 #website {
   padding-left: 1em;
+  color: rgb(210, 212, 41);
+}
+
+.picture {
+  display: inline-block;
+  margin: 5px;
+  margin-left: 5px;
 }
